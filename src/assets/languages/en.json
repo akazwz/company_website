@@ -1,0 +1,109 @@
+{
+  "home": {
+    "home": "Home",
+    "menu_one": "About ICEGPS",
+
+
+    "menu_two": "News Center",
+
+    "menu_three": "Product Center",
+    "menu_three1": "Agricultural Automation",
+
+    "menu_three2": "Measuring Instrument",
+    "menu_three2_1": "Hand Held GPS 660",
+    "menu_three2_2": "Hand Held Acremeter 660 Intercom",
+    "menu_three2_3": "Hand Held GPS 610",
+    "menu_three2_4": "New Cross Voice King Acremeter",
+
+    "menu_four": "Customer Service",
+
+    "menu_five": "Join US",
+
+    "menu_six": "Login/Register",
+
+    "language": "Languages",
+    "chinese": "中文",
+    "english": "English",
+
+    "img": [
+      {
+        "key": "back1", "src": "https://icegps.com/image/ice/s2.jpg", "desc": "back1"
+      },
+      {
+        "key": "back2", "src": "https://icegps.com/image/ice/s1.jpg", "desc": "back2"
+      }
+    ],
+
+    "product": "Product Introduce",
+    "product1": "AS210BD-2.5RD\nBeidou navigation automatic driving system for agricultural machinery",
+    "product2": "12PW-300\nBeidou satellite grader",
+    "product3": "Dual channel / single channel\nLand leveller",
+    "product4": "Hand held GPS 660",
+    "product5": "Hand held GPS 610",
+    "product6": "Hand held satellite Mu meter 660 intercom Mu meter",
+    "product7": "New Cross Voice King Acremeter",
+
+    "hand_held": "Hand Held Measuring",
+
+    "footer": "ICEGPS|CAN ICP 19083336"
+  },
+
+
+  "login": {
+    "ice": "ICEGPS",
+    "title": "User Login",
+    "account": "UserName",
+    "password": "Password",
+    "captcha": "captcha",
+    "button": "Login in",
+    "register": "No account? Go to register",
+    "welcome": "WelCome",
+    "Logout": "Logout"
+  },
+
+
+
+
+  "products": {
+    "product1": {
+      "introduce": "Introduce",
+      "introduction_title": "AS210BD-2.5RD Beidou navigation automatic driving system for agricultural machinery",
+      "introduction": "AS210BD-2.5RDis a self-developed automatic navigation product for ICEGPS. The product has rich functions, which can realize vehicle operation status monitoring, complete seeding, spraying, fertilizing, ditching and other operation types. It has large screen on-board computer display, positioning, route planning, area coverage, operation area and historical record. Double antenna positioning and orientation, the operation accuracy is ± 2.5cm, the ICEGPS innovative high-precision positioning is adopted, which provides unprecedented flexibility for the installation and selection of reference stations.",
+      "feature": "Feature",
+      "feature_content1": "*  Any car can be installed, tractor, articulated tractor, transplanter, etc., with steering wheel can use electric steering wheel, without steering wheel can use proportional hydraulic valve.",
+      "feature_content2": "*  All kinds of work, all kinds of lines, straight lines, curves, rings, turns; all kinds of work, ditching, ridging, sowing, medicine.",
+      "feature_content3": "*  Anyone can learn, mobile phone operation is intuitive and easy to use, large screen characters can be seen clearly, high brightness can be seen in the day, night is not dazzling, clear and loud voice prompt and fault alarm.",
+      "feature_content4": "*  All kinds of differences are supported: 1-3km low-power radio portable base station differential, 10-20km high-power radio fixed base station differential, and mobile network base station differential without distance limit.",
+      "feature_content5": "*  Advanced technology, system calibration automation, location, video monitoring, networking upgrade, built-in radio, GPS, Beidou and other major satellite systems support.",
+      "feature_content6": "Satellite positioning: double antenna positioning and orientation, operation accuracy ± 2.5cm, vehicle operation status monitoring. Various types of operations: sowing, spraying, fertilization, ploughing, etc",
+      "feature_content7": "ICEGPS's innovative high-precision positioning system provides unprecedented flexibility for the construction and selection of reference stations :",
+      "feature_content8": "①Reference station using radio station, reference station using mobile network.",
+      "feature_content9": "②Do not base station, use third-party network differential such as Chihiro or glacier.",
+      "feature_content10": "③Network differential base station, through radio dial broadcast network differential data.",
+      "application": "Application",
+      "application1": "Sow",
+      "application2": "Transplanting",
+      "application3": "Ridging"
+    },
+    "contactUS": {
+      "title": "Contact US",
+      "tel": "Tel：400-678-5541/0755-86056582",
+      "weChat": "WeChat：深圳冰河导航",
+      "weibo": "weibo：冰河导航",
+      "location": "Address: No.348,3 tung,6 floor 610 Longgang Love South Road, Shenzhen"
+    },
+    "product2": {
+
+    }
+
+
+  },
+
+  "commonProblem": {
+    "title": "Common Problem",
+    "searchHolder": "Please input your question"
+  }
+
+
+
+}
