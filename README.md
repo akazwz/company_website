@@ -1,3 +1,3 @@
-# icegps
+# company_website
 
-#### A compony web site
+#### A common company website
