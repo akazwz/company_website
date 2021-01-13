@@ -1,25 +1,25 @@
 {
   "home": {
     "home": "首页",
-    "menu_one": "关于冰河",
+    "menu_one": "关于卓文科技",
 
     "menu_two": "新闻中心",
 
-    "menu_three": "产品中心",
-    "menu_three1": "农业自动化",
+    "menu_three": "菜单3",
+    "menu_three1": "菜单3-1",
 
-    "menu_three2": "测量仪器",
-    "menu_three2_1": "手持式卫星定位仪器GPS660",
-    "menu_three2_2": "手持式卫星测亩仪660对讲测亩仪",
-    "menu_three2_3": "手持式卫星定位仪GPS610",
-    "menu_three2_4": "新穿越语音王测亩仪",
+    "menu_three2": "菜单3-2",
+    "menu_three2_1": "菜单3-2-1",
+    "menu_three2_2": "菜单3-2-2",
+    "menu_three2_3": "菜单3-2-3",
+    "menu_three2_4": "菜单3-2-4",
 
 
-    "menu_four": "客户服务",
+    "menu_four": "菜单4",
 
-    "menu_five": "加入我们",
+    "menu_five": "菜单5",
 
-    "menu_six": "登陆/注册",
+    "menu_six": "菜单6",
 
 
 
@@ -37,17 +37,17 @@
     ],
 
     "product": "产品介绍",
-    "product1": "AS210BD-2.5RD\n北斗导航农业机械自动驾驶系统",
-    "product2": "12PW-300\n北斗卫星平地仪",
-    "product3": "双通道/单通道\n平地仪",
-    "product4": "手持式卫星定位仪GPS660",
-    "product5": "手持式卫星定位仪GPS610",
-    "product6": "手持式卫星测亩仪 660对讲测亩仪",
-    "product7": "新穿越语音王测亩仪",
+    "product1": "产品1",
+    "product2": "产品2",
+    "product3": "产品3",
+    "product4": "产品4",
+    "product5": "产品5",
+    "product6": "产品6",
+    "product7": "产品7",
 
-    "hand_held": "手持测量仪",
+    "hand_held": "产品8",
 
-    "footer": "冰河导航|粤ICP备19083336"
+    "footer": "卓文科技| akaedison@icloud.com"
   },
 
   "login": {

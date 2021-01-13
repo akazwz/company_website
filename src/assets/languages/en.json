@@ -1,25 +1,25 @@
 {
   "home": {
     "home": "Home",
-    "menu_one": "About ICEGPS",
+    "menu_one": "About ZHUOWENTECH",
 
 
-    "menu_two": "News Center",
+    "menu_two": "menu2",
 
-    "menu_three": "Product Center",
-    "menu_three1": "Agricultural Automation",
+    "menu_three": "menu3",
+    "menu_three1": "menu3-1",
 
-    "menu_three2": "Measuring Instrument",
-    "menu_three2_1": "Hand Held GPS 660",
-    "menu_three2_2": "Hand Held Acremeter 660 Intercom",
-    "menu_three2_3": "Hand Held GPS 610",
-    "menu_three2_4": "New Cross Voice King Acremeter",
+    "menu_three2": "menu3-2",
+    "menu_three2_1": "menu3-2-1",
+    "menu_three2_2": "menu3-2-2",
+    "menu_three2_3": "menu3-2-3",
+    "menu_three2_4": "menu3-2-4",
 
-    "menu_four": "Customer Service",
+    "menu_four": "menu4",
 
-    "menu_five": "Join US",
+    "menu_five": "menu5",
 
-    "menu_six": "Login/Register",
+    "menu_six": "menu6",
 
     "language": "Languages",
     "chinese": "中文",
@@ -35,17 +35,17 @@
     ],
 
     "product": "Product Introduce",
-    "product1": "AS210BD-2.5RD\nBeidou navigation automatic driving system for agricultural machinery",
-    "product2": "12PW-300\nBeidou satellite grader",
-    "product3": "Dual channel / single channel\nLand leveller",
-    "product4": "Hand held GPS 660",
-    "product5": "Hand held GPS 610",
-    "product6": "Hand held satellite Mu meter 660 intercom Mu meter",
-    "product7": "New Cross Voice King Acremeter",
+    "product1": "product1",
+    "product2": "product2",
+    "product3": "product3",
+    "product4": "product4",
+    "product5": "product5",
+    "product6": "product6",
+    "product7": "product7",
 
-    "hand_held": "Hand Held Measuring",
+    "hand_held": "hand_held",
 
-    "footer": "ICEGPS|CAN ICP 19083336"
+    "footer": "ZHUOWENTECH | akaedison@icloud.com"
   },
 
 

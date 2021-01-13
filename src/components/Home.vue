@@ -119,8 +119,8 @@
         </el-main>
 
         <el-footer class="el-footer" style="background-color: #272727; color: #d9d9d9; max-height: 50px">
-            <h3 style="margin-top: 15px; float: left;margin-left: 10%">ICEGPS</h3>
-            <i class="el-icon-phone" style="margin-top: 15px;float: right;margin-right: 10%">400-678-5541</i>
+            <h3 style="margin-top: 15px; float: left;margin-left: 10%">ZHUOWENTECH</h3>
+            <i class="el-icon-apple" style="margin-top: 15px;float: right;margin-right: 10%">akaedison@icloud.com</i>
         </el-footer>
     </el-container>
 </template>

@@ -59,8 +59,8 @@
         data() {
             return {
                 carouselList:[
-                    {key:'back1',src:'https://icegps.com/image/ice/shouye_02.jpg',desc:'dfg'},
-                    {key:'back2',src:'https://icegps.com/image/ice/610.png',desc:'xcvxc'},
+                    {key:'back1',src:'https://t7.baidu.com/it/u=2784641621,1500236023&fm=193&f=GIF',desc:'dfg'},
+                    {key:'back2',src:'https://t7.baidu.com/it/u=1732966997,2981886582&fm=193&f=GIF',desc:'xcvxc'},
                 ]
 
             }
