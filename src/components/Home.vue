@@ -8,7 +8,7 @@
                      text-color="gray"
                      default-active="#990B2C"
                      active-text-color="#990B2C" >
-                <img class="imgLogo" src="https://icegps.com/image/ice/logo.png" alt="logo" style="float: left;margin-left: 10%;margin-top: 15px">
+                <img class="imgLogo" src="technology.png" alt="logo" style="float: left;margin-left: 10%;margin-top: 15px;height: 40px;width: 40px">
                 <el-menu-item style="margin-left: 5%" index="9" @click="$router.push('/home')">{{$t('home.home')}}</el-menu-item>
                 <el-menu-item index="1" @click="$router.push('/aboutUS')">{{$t('home.menu_one')}}</el-menu-item>
                 <el-menu-item index="2" @click="$router.push('/newsCenter')">{{$t('home.menu_two')}}</el-menu-item>
